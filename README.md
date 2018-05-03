@@ -1,4 +1,5 @@
 # elasticache-chatapp
+https://aws.amazon.com/blogs/database/how-to-build-a-chat-application-with-amazon-elasticache-for-redis/ 
 
 Example architecture for building a web based chat application integrating Amazon ElastiCache for Redis.
 
